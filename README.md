@@ -2,17 +2,9 @@
 
 <p align="left">Hi 👋! My name is Karolina aka @lillastormen <br>I'm a web development student at @yrgo in Gothenburg, Sweden<p>
 
-###
-###
-
 <img align="right" height="150" src="https://media1.tenor.com/m/kDL2dLiZ38AAAAAC/quby-chan.gif"  />
 
-###
-###
-
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -34,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
 </div>
 
-###
+<h3 align="left">🔥   My Stats :</h3>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
