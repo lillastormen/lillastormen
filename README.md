@@ -1,5 +1,6 @@
-<h3 align="center">Hi 👋, I'm Karolina aka @lillastormen</h3>
-<h4 align="center">A web development student at @yrgo, Gothenburg</h4>
+<h3>Who am I?</h3>
+<h4>Hi 👋, I'm Karolina aka @lillastormen</h4>
+<h4>A web development student at @yrgo, Gothenburg</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lillastormen&label=Profile%20views&color=0e75b6&style=flat" alt="lillastormen" /> </p>
 
