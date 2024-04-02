@@ -1,10 +1,14 @@
-<h5 align="left">Hi 👋! My name is Karolina aka @lillastormen <br>I'm a web development student at @yrgo in Gothenburg, Sweden</h5>
+<h3 align="left">👩‍💻  About Me</h3>
+
+<p align="left">Hi 👋! My name is Karolina aka @lillastormen <br>I'm a web development student at @yrgo in Gothenburg, Sweden<p>
 
 ###
 
 <img align="right" height="150" src="https://media1.tenor.com/m/kDL2dLiZ38AAAAAC/quby-chan.gif"  />
 
 ###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
