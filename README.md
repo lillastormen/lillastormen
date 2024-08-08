@@ -15,8 +15,7 @@ I'm a web development student at @yrgo in Gothenburg, Sweden.
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=lillastormen&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
