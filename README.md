@@ -1,6 +1,6 @@
 # About Me:
 Hi! My name is Karolina aka @lillastormen.</br>
-I'm a web development student at @yrgo in Gothenburg, Sweden.
+I'm a Web Development student at @yrgo in Gothenburg, Sweden.
 
 My portfolio: [Click!](https://portfolio-n3aql7y3u-panickaros-projects.vercel.app)
 
