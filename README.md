@@ -7,7 +7,6 @@ My portfolio: [Click!](https://portfolio-n3aql7y3u-panickaros-projects.vercel.ap
 
 # I'm currently exploring:
 - Next.js
-- Open source
 
 
 
